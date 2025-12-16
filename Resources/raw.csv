@@ -1,0 +1,6 @@
+"name,email,age"
+"John Doe,john.doe@gmail.com,25"
+"Mary123,mary@gmail.com,30"
+"Alex,alex@gmail.com,"
+"Bob,bob@wrong-email,40"
+"Chris,chris@gmail.com,abc"
